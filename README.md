@@ -8,4 +8,5 @@ The datasets referenced  are also included in their original .csv formats.
 **NOTE**: The Jupyter Notebooks 1-2 and 1-3 in this repository are quite large, which can produce a slowdown when trying to view the files
 within Github.
 
-**UPDATED**: Added HTML versions of the Jupyter Notebooks. The slowdown issue mentioned above does not apply to the HTML versions.
+Use the nbviewer to see these files: http://nbviewer.jupyter.org/github/mch-usqm/machine-learn/tree/master/.
+
